@@ -4,8 +4,8 @@ import Card from './components/Card'
 function App() {
   return (
     <>
-    <Card userName='Anjali' btntext={"Learn More"}/>
-    <Card userName="adarsh" btntext={"Read More"}/>
+    <Card userName='Alok' btntext={"Learn More"}/>
+    <Card userName='Adarsh' btntext={"React Here"} />
     </>
   );
 }
